@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userualculate",
+        "uuid": 2039174,
+        "checksum": "re54jt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
